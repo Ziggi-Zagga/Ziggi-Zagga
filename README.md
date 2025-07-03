@@ -91,9 +91,9 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
 
 ## 🔗 Conecta conmigo
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ziggi--Zagga-181717?logo=github)](https://github.com/Ziggi-Zagga)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanielRuizMartí-0e76a8?logo=linkedin)](https://www.linkedin.com/in/daniel-ruiz-mart%C3%AD-13a3a1337/)
-📧 danielruizmarti752@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-Ziggi--Zagga-181717?logo=github)](https://github.com/Ziggi-Zagga) <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DanielRuizMartí-0e76a8?logo=linkedin)](https://www.linkedin.com/in/daniel-ruiz-mart%C3%AD-13a3a1337/) <br/>
+📧 danielruizmarti752@gmail.com 
 
 ---
 
