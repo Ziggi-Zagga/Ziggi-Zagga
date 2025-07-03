@@ -1,6 +1,6 @@
 <!-- Encabezado animado (se simula con GIF o SVG externo) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=¡Hola%2C+soy+Dani!;Desarrollador+web+enfocado+en+backend;Apasionado+por+el+código+limpio+y+la+IA&center=true&width=380&height=45">
+  <img src="banner.png" alt="Banner de Dani" width="100%">
 </p>
 
 ---
