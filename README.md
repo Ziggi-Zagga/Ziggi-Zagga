@@ -26,18 +26,19 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
 </div>
 
 <div align="center">
-  <img src="java logo.png" alt="Java" height="60" style="margin: 0 15px;" />
-  <img src="springbootlogo.svg" alt="Spring Boot" height="60" style="margin: 0 15px;" />
-  <img src="Svelte_Logo.svg.png" alt="Svelte" height="60" style="margin: 0 15px;" />
-  <img src="Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="60" style="margin: 0 15px;" />
-  <img src="gitLogo.png" alt="Git" height="60" style="margin: 0 15px;" />
-  <img src="Unofficial_JavaScript_logo_2.svg.png" alt="javaScript" height="60" style="margin: 0 15px;" />
-  <img src="CSS3_logo_and_wordmark.svg.png" alt="CSS" height="60" style="margin: 0 15px;" />
-  <img src="HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="60" style="margin: 0 15px;" />
-  <img src="Sql_data_base_with_logo.png" alt="SQL" height="60" style="margin: 0 15px;" />
-  <img src="mariadb-logo-vert_blue-transparent.png" alt="MariaDB" height="60" style="margin: 0 15px;" />
-  <img src="VaadinLogomark_RGB_1000x1000.png" alt="Vaadin" height="60" style="margin: 0 15px;" />
+  <img src="images/java logo.png" alt="Java" height="60" style="margin: 0 15px;" />
+  <img src="images/springbootlogo.svg" alt="Spring Boot" height="60" style="margin: 0 15px;" />
+  <img src="images/Svelte_Logo.svg.png" alt="Svelte" height="60" style="margin: 0 15px;" />
+  <img src="images/Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="60" style="margin: 0 15px;" />
+  <img src="images/gitLogo.png" alt="Git" height="60" style="margin: 0 15px;" />
+  <img src="images/Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" height="60" style="margin: 0 15px;" />
+  <img src="images/CSS3_logo_and_wordmark.svg.png" alt="CSS" height="60" style="margin: 0 15px;" />
+  <img src="images/HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="60" style="margin: 0 15px;" />
+  <img src="images/Sql_data_base_with_logo.png" alt="SQL" height="60" style="margin: 0 15px;" />
+  <img src="images/mariadb-logo-vert_blue-transparent.png" alt="MariaDB" height="60" style="margin: 0 15px;" />
+  <img src="images/VaadinLogomark_RGB_1000x1000.png" alt="Vaadin" height="60" style="margin: 0 15px;" />
 </div>
+
 
 ---
 
