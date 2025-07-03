@@ -44,13 +44,24 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
 
 ## 💼 Proyectos destacados
 
+<p>
+  <img src="images/springbootlargelogo.png" alt="SpringBootLargeLogo" height="80px">
+  <img src="images/VaadinLogomark_RGB_1000x1000.png" alt="VaadinLogo" height="80px">
+</p>
+
 ### 🧩 Prácticas en Prismatech (Bélgica)
 - Desarrollo real en un ERP empresarial llamado **eCust**.
 - Tecnologías: Vaadin Flow, Spring Boot, Liquibase, MariaDB.
 - Integración avanzada con **Google Drive API** mediante OAuth 2.0.
 - Gestión de versiones con Git (Fork), uso de Nexus como repositorio.
+<br/>
 
-### 🏭 TFG – App de gestión de inventario e incidencias
+<p>
+  <img src="images/Svelte-kit-horizontal.svg.png" alt="SvelteLargeLogo" height="80px">
+  <img src="images/Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="80px">
+</p>
+
+### 🏭 TFG – App de gestión de inventario e incidencias – Aún desarrollando después de la presentación 
 - Desarrollo completo de una aplicación de gestión industrial (**Next Gen Manager**).
 - Funcionalidades: gestión de stock, pedidos, usuarios, proveedores y productos.
 - Frontend con **SvelteKit 5** y **Tailwind CSS**.
@@ -63,6 +74,7 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
 
 - React y ecosistema moderno (hooks, context, router)
 - IA local con FastAPI y spaCy
+- Godot (Como hobby)
 
 ---
 
