@@ -5,10 +5,11 @@
 
 ---
 
-## 👋 ¡Hola, soy Dani!
+## 👋 ¡Hey! Soy Dani
+Desarrollador web con pasión por el backend y la tecnología útil. Me encanta transformar ideas en código limpio, bien estructurado y funcional.
+He trabajado tanto en proyectos empresariales como personales, siempre con el objetivo de crear software que aporte valor real.
 
-Soy desarrollador web, especializado en backend. Disfruto creando soluciones funcionales, seguras y bien estructuradas, tanto en entornos empresariales como freelance.  
-Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desarrollo web y la inteligencia artificial aplicada.
+Actualmente estoy en búsqueda activa de nuevas oportunidades donde pueda seguir creciendo profesionalmente, especialmente en entornos donde se combine desarrollo web con inteligencia artificial, automatización o soluciones modernas en la nube.
 
 ---
 
@@ -61,7 +62,7 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
   <img src="images/Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="80px">
 </p>
 
-### 🏭 TFG – App de gestión de inventario e incidencias – Aún desarrollando después de la presentación 
+### 🏭 TFG – App de gestión de inventario – Aún desarrollando después de la presentación 
 - Desarrollo completo de una aplicación de gestión industrial (**Next Gen Manager**).
 - Funcionalidades: gestión de stock, pedidos, usuarios, proveedores y productos.
 - Frontend con **SvelteKit 5** y **Tailwind CSS**.
