@@ -1,6 +1,6 @@
 <!-- Encabezado animado (se simula con GIF o SVG externo) -->
 <p align="center">
-  <img src="banner.png" alt="Banner de Dani" width="100%">
+  <img src="images/banner.png" alt="Banner de Dani" width="100%">
 </p>
 
 ---
