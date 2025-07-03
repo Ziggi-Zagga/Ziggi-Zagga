@@ -19,32 +19,31 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
 | **Backend**     | PHP, Laravel · Java, Spring Boot · API REST · SvelteKit 5                                |
 | **Frontend**    | HTML · CSS · JavaScript · Angular · Vaadin · Tailwind CSS                                |
 | **Bases de datos** | SQL · MySQL · MariaDB · Liquibase · JPA · UML                                           |
-| **DevOps**      | Docker · Apache básico · Web hosting                                                     |
-| **Testing**     | Selenium                                                                                 |
 | **Herramientas**| Git (Fork) · IntelliJ IDEA · Eclipse · Postman · XPath/XQuery                            |
 
 ---
 
 ## 💼 Proyectos destacados
 
-### 💳 Pasarela de pagos (proyecto simulado tipo Stripe)
-- Seguridad con JWT
-- Backend en Symfony y Spring Boot
-- Gestión de pagos y webhooks
-- Dockerización y despliegue
+### 🧩 Prácticas en Prismatech (Bélgica)
+- Desarrollo real en un ERP empresarial llamado **eCust**.
+- Tecnologías: Vaadin Flow, Spring Boot, Liquibase, MariaDB.
+- Integración avanzada con **Google Drive API** mediante OAuth 2.0.
+- Gestión de versiones con Git (Fork), uso de Nexus como repositorio.
 
-### 🏡 App de gestión de alojamientos
-- Roles (cliente/admin) y rutas protegidas
-- CRUD de propiedades, reservas y usuarios
-- Arquitectura MVC con PostgreSQL
+### 🏭 TFG – App de gestión de inventario e incidencias
+- Desarrollo completo de una aplicación de gestión industrial (**Next Gen Manager**).
+- Funcionalidades: gestión de stock, pedidos, usuarios, proveedores y productos.
+- Frontend con **SvelteKit 5** y **Tailwind CSS**.
+- Backend con Drizzle ORM y base de datos relacional.
+- En fase de mejora con integración de **IA para automatizar tareas comunes**.
 
 ---
 
 ## 🧠 Actualmente aprendiendo
-- Arquitectura hexagonal con Symfony
-- CI/CD con GitHub Actions
-- Integración de IA con spaCy y FastAPI
-- Google Drive API y OAuth 2.0
+
+- React y ecosistema moderno (hooks, context, router)
+- IA local con FastAPI y spaCy
 
 ---
 
