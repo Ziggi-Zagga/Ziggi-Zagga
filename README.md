@@ -7,7 +7,7 @@
 
 ## 👋 ¡Hola, soy Dani!
 
-Soy desarrollador web en formación, especializado en backend moderno. Disfruto creando soluciones funcionales, seguras y bien estructuradas, tanto en entornos empresariales como freelance.  
+Soy desarrollador web, especializado en backend. Disfruto creando soluciones funcionales, seguras y bien estructuradas, tanto en entornos empresariales como freelance.  
 Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desarrollo web y la inteligencia artificial aplicada.
 
 ---
@@ -23,6 +23,20 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
 | **Bases de datos** | SQL · MySQL · MariaDB · Liquibase · JPA · UML                                           |
 | **Herramientas**| Git (Fork) · IntelliJ IDEA · Eclipse · Postman · XPath/XQuery                            |
 
+</div>
+
+<div align="center">
+  <img src="java logo.png" alt="Java" height="60" style="margin: 0 15px;" />
+  <img src="springbootlogo.svg" alt="Spring Boot" height="60" style="margin: 0 15px;" />
+  <img src="Svelte_Logo.svg.png" alt="Svelte" height="60" style="margin: 0 15px;" />
+  <img src="Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" height="60" style="margin: 0 15px;" />
+  <img src="gitLogo.png" alt="Git" height="60" style="margin: 0 15px;" />
+  <img src="Unofficial_JavaScript_logo_2.svg.png" alt="javaScript" height="60" style="margin: 0 15px;" />
+  <img src="CSS3_logo_and_wordmark.svg.png" alt="CSS" height="60" style="margin: 0 15px;" />
+  <img src="HTML5_logo_and_wordmark.svg.png" alt="HTML5" height="60" style="margin: 0 15px;" />
+  <img src="Sql_data_base_with_logo.png" alt="SQL" height="60" style="margin: 0 15px;" />
+  <img src="mariadb-logo-vert_blue-transparent.png" alt="MariaDB" height="60" style="margin: 0 15px;" />
+  <img src="VaadinLogomark_RGB_1000x1000.png" alt="Vaadin" height="60" style="margin: 0 15px;" />
 </div>
 
 ---
