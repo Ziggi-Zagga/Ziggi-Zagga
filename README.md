@@ -14,12 +14,16 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
 
 ## 🚀 Stack principal
 
+<div align="center">
+
 | Área            | Tecnologías principales                                                                 |
 |-----------------|------------------------------------------------------------------------------------------|
 | **Backend**     | PHP, Laravel · Java, Spring Boot · API REST · SvelteKit 5                                |
 | **Frontend**    | HTML · CSS · JavaScript · Angular · Vaadin · Tailwind CSS                                |
 | **Bases de datos** | SQL · MySQL · MariaDB · Liquibase · JPA · UML                                           |
 | **Herramientas**| Git (Fork) · IntelliJ IDEA · Eclipse · Postman · XPath/XQuery                            |
+
+</div>
 
 ---
 
@@ -49,11 +53,15 @@ Actualmente en búsqueda activa de empleo o prácticas relacionadas con el desar
 
 ## 🌍 Idiomas
 
+<div align="center">
+
 | Idioma   | Nivel |
 |----------|-------|
 | Español  | Nativo |
 | Inglés   | B2 (EOI) |
 | Francés  | B2 (DELF - Alliance Française) |
+
+</div>
 
 ---
 
