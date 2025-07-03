@@ -10,7 +10,7 @@ Desarrollador web con pasión por el backend y la tecnología útil. Me encanta 
 He trabajado tanto en proyectos empresariales como personales, siempre con el objetivo de crear software que aporte valor real. Interesado en el mundo
 de la IA con pensamientos en cursar el máster de especialización de IA y Big Data.
 
-Actualmente estoy en búsqueda activa de nuevas oportunidades donde pueda seguir creciendo profesionalmente, especialmente en entornos donde se combine desarrollo web con inteligencia artificial, automatización o soluciones modernas en la nube.
+Actualmente estoy en búsqueda activa de nuevas oportunidades donde pueda seguir creciendo profesionalmente, con preferencia en backend.
 
 ---
 
